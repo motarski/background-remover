@@ -1,4 +1,3 @@
-pip install -r requrements.txt
 # Background Remover CLI
 
 A simple Python CLI tool to remove backgrounds from images.
