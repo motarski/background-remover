@@ -39,6 +39,11 @@ Example:
 ```bash
 python bkg_remove.py background.jpg -o removed_background.png
 ```
+Setup bash script is also adding the shebang to the python script to make it executable from the terminal
+
+```bash
+./bkg_remove.py background.jpg -o result.png
+```
 
 This command will process background.jpg, preview the output, and save it as result.png
 
